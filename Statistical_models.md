@@ -1,5 +1,6 @@
 ## EMBL-EBI Training Webinars
 
+[A beginner's guide to interpreting results from biostatistics](https://www.ebi.ac.uk/training/events/beginners-guide-interpreting-results-biostatistics/)
 ### Statistical Models
 
 - **Purpose:** A statistical model represents our view of a process and aims to describe the data-generating process.
