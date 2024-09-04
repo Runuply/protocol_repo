@@ -19,8 +19,19 @@ But ...
 * A straight-forward estimate of how unsual the data are
 
 #### Example
-When the true prevalece is 4%, the probability of observing an event of 9/100 (or more extreme) is **p=0.02**.
-Python
+When the true prevalence is 4%, the probability of observing an event of 9/100 (or more extreme) is **p=0.02**.
+* Use Python to caculate the p value/ probability of observing k=9 events out of 100,
 ```{Python}
-
+from scipy.stats import binom
+n=100 # the total number of trails or observations
+p=0.04 # the true prevalence, or the probability of success
+k=9 # the number of observed events
+#calculate the p-value
+p_value=1-binom.cdf(k-1,n,p)
+print(f"The p-value is :{p_value}")
 ```
+It returns 0.01899 
+
+* Binomial probability formula to caculate the p value/ probability of observing k=9 events out of 100,
+p(x=k)=(nk)*p^k*(1-p)^(n-k)
+p(x\=k)\=(kn​)⋅pk⋅(1−p)n−k
