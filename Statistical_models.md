@@ -36,11 +36,15 @@ It returns 0.01899
 
 To calculate the p-value or probability of observing \( k = 9 \) events out of 100 using the binomial probability formula:
 
-\[ p(x = k) = \binom{n}{k} \cdot p^k \cdot (1-p)^{n-k} \]
+**p(X = k) = (n choose k) * p^k * (1 - p)^(n - k)**
 
 Where:
 
 - \( \binom{n}{k} \) is the binomial coefficient, calculated as \( \frac{n!}{k!(n-k)!} \).
 - \( p \) is the probability of success.
 - \( (1-p) \) is the probability of failure.
+
+Since we are asking about the k=9 or more extreme
+the fumula should be:
+**p(X>=k)=1-p(X<k) => p(X>=k)=1-p(x<=k-1)**
 
