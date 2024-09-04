@@ -8,7 +8,7 @@
 * Help to calculate the probability of the data under some assumptions.
 
 #### Binomial model
-| "All models are wrong, but some are useful." 
+|"All models are wrong, but some are useful." 
                                   -George Box
 * The model is over-simplifying
 * Factors like age, region, other preconditions are neglected
