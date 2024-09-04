@@ -33,5 +33,14 @@ print(f"The p-value is :{p_value}")
 It returns 0.01899 
 
 * Binomial probability formula to caculate the p value/ probability of observing k=9 events out of 100,
-p(x=k)=(nk)*p^k*(1-p)^(n-k)
-p(x\=k)\=(kn​)⋅pk⋅(1−p)n−k
+
+To calculate the p-value or probability of observing \( k = 9 \) events out of 100 using the binomial probability formula:
+
+\[ p(x = k) = \binom{n}{k} \cdot p^k \cdot (1-p)^{n-k} \]
+
+Where:
+
+- \( \binom{n}{k} \) is the binomial coefficient, calculated as \( \frac{n!}{k!(n-k)!} \).
+- \( p \) is the probability of success.
+- \( (1-p) \) is the probability of failure.
+
