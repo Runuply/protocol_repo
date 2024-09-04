@@ -4,3 +4,5 @@
 ### General Sequencing data analysis materials 
 * [EMBL-EBI has a very comprehensive list of courses for online training](https://www.ebi.ac.uk/training/on-demand)
 
+The notes: 
+1. [Statistical models](./Statistical_models.md)
