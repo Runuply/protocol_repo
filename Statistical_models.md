@@ -19,4 +19,4 @@ But ...
 * A straight-forward estimate of how unsual the data are
 
 #### Example
-When the true prevalece is 4%, the probability of observing an event of 9/100 (or more extreme) is *p=0.02*
+When the true prevalece is 4%, the probability of observing an event of 9/100 (or more extreme) is **p=0.02**
