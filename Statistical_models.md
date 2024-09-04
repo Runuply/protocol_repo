@@ -46,5 +46,6 @@ Where:
 
 Since we are asking about the k=9 or more extreme
 the fumula should be:
-**p(X>=k)=1-p(X<k) => p(X>=k)=1-p(x<=k-1)**
+
+**p(X>=k)=1-p(X<k) or p(X>=k)=1-p(x<=k-1)**
 
