@@ -1,34 +1,37 @@
-## EMBL-EBI training webinars
+## EMBL-EBI Training Webinars
 
-#### Statical models
-* The model is our view of the process
-* It aims at representing the data generating process
-* Summarizeds a set of assumptions
-* Specifies relations between varibales
-* Help to calculate the probability of the data under some assumptions.
+### Statistical Models
 
-#### Binomial model
-> "All models are wrong, but some are useful." 
-                                  -George Box
-* The model is over-simplifying
-* Factors like age, region, other preconditions are neglected
-* The assumed n% are subject to uncertainfy
+- **Purpose:** A statistical model represents our view of a process and aims to describe the data-generating process.
+- **Function:** It summarizes a set of assumptions and specifies the relationships between variables.
+- **Use:** Helps calculate the probability of the data under these assumptions.
 
-But ...
-* Can be a starting point of further investigation
-* A straight-forward estimate of how unsual the data are
+### Binomial Model
 
-#### Example
-When the true prevalence is 4%, the probability of observing an event of 9/100 (or more extreme) is **p=0.02**.
-* Use Python to caculate the p value/ probability of observing k=9 events out of 100,
-```{Python}
+> "All models are wrong, but some are useful."  
+> — George Box
+
+- **Simplification:** The binomial model simplifies reality by neglecting factors like age, region, or other preconditions. Assumed probabilities are subject to uncertainty.
+- **Usefulness:** Despite its simplifications, the binomial model can serve as a starting point for further investigation and provides a straightforward estimate of how unusual the data might be.
+
+### Example
+
+When the true prevalence is 4%, the probability of observing 9 or more events out of 100 (or more extreme) is **p=0.02**.
+
+#### Python Code for p-Value Calculation
+
+To calculate the p-value for observing \( k = 9 \) events out of 100, you can use the following Python code:
+
+```python
 from scipy.stats import binom
-n=100 # the total number of trails or observations
-p=0.04 # the true prevalence, or the probability of success
-k=9 # the number of observed events
-#calculate the p-value
-p_value=1-binom.cdf(k-1,n,p)
-print(f"The p-value is :{p_value}")
+
+n = 100  # Total number of trials or observations
+p = 0.04  # True prevalence or probability of success
+k = 9  # Number of observed events
+
+# Calculate the p-value
+p_value = 1 - binom.cdf(k - 1, n, p)
+print(f"The p-value is: {p_value}")
 ```
 It returns 0.01899 
 
