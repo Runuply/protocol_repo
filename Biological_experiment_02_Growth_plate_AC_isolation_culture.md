@@ -1,31 +1,4 @@
-# 小鼠生长板软骨细胞分离和原代培养
-
-## Chinese (中文)
-
-1. 处死小鼠（< P7）；
-2. 解剖分离出生长板组织；
-3. 在体式显微镜下小心去除生长板软骨组织上连接的韧带和肌腱；
-4. 将初步处理的生长板组织放入12孔板中；
-5. PBS洗两遍；
-6. 加入500 µl 链霉蛋白酶溶液（1 mg/ml，in PBS）没过软骨组织；
-7. 37°C，1小时；
-8. 将生长板软骨组织连通蛋白酶溶液转移到15 ml离心管中；
-9. 加入4 ml PBS，用移液器上下吹打组织，吸走分离下来的絮状组织；
-10. 重复步骤9，直到不再有细小的组织从生长板软骨组织上脱落；
-11. 将处理干净的生长板软骨组织放入12孔板中；
-12. 加入500 µl 2型胶原酶溶液（1 mg/ml，in α-MEM containing 10% FBS），没过软骨组织；
-13. 将盛有组织的12孔板倾斜放入CO₂细胞培养箱中，37°C，过夜（12小时）；
-14. 加入1 ml PBS至12孔板，用移液器上下轻轻吹打组织，以将生长板软骨组织吹散成单个细胞悬液；
-15. 将生长板软骨细胞悬液转移到15 ml 离心管中，加入4 ml PBS清洗细胞，并吸走可能的残渣；
-16. 离心，500 x g，5分钟；
-17. 弃上清，加入适量α-MEM培养基重悬细胞；
-18. 计数后，将生长板软骨细胞接种到合适的培养皿中，进行后续的实验。
-
----
-
-## English
-
-### Mouse Growth Plate Chondrocyte Isolation and Primary Culture
+# Mouse Growth Plate Chondrocyte Isolation and Primary Culture
 
 1. Euthanize mice (< P7);
 2. Dissect and isolate the growth plate tissue;
