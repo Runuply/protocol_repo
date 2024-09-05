@@ -52,7 +52,7 @@
 - Count the cells. The yield should be around 10<sup>6</sup> monocytes per four bones.
 - Plate cells in 96-well flat-bottom plates at varying concentrations (2K, 4K, 6K, 8K, 10K cells per well) with a total volume of 200 µL per well.
   - *Note: RAW cells require 3000 cells per well*. The BMDM can be up to 20K cells/well.
-- 12-well flat-bottom plates 3x10<sup>5</sup> cells/well.
+- Plate cells in 12-well flat-bottom plates 3x10<sup>5</sup> cells/well.
 
 ### 9. Proliferation and Medium Replacement
 - Allow cells to proliferate for one day to ensure attachment. Change the medium every 2-3 days, adding 5% L929 and 50-100 ng/mL His-RANKL.
