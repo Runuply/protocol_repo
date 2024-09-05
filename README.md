@@ -1,7 +1,11 @@
 # MyRepo: General Sequencing Data Analysis and Biological Experiment Methods
 
 This repository contains materials and notes related to sequencing data analysis and biological experiment protocols. Explore the resources below for detailed information on methods and workflows.
-
+To download and print the .md files
+``` bash
+#example
+pandoc /Users/ye.liu/Downloads/Biological_experiment_01_BMDM_OC_differention.md -o /Users/ye.liu/Downloads/Biological_experiment_01_BMDM_OC_differention.pdf --pdf-engine=xelatex -V mainfont="Arial"
+```
 ---
 
 ### General Sequencing data analysis materials 
