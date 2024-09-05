@@ -19,7 +19,7 @@
 
 When the true prevalence is 4%, the probability of observing 9 or more events out of 100 (or more extreme) is **p=0.02**.
 
-#### Python Code for p-Value Calculation
+#### Python Code for p-value Calculation
 
 To calculate the p-value for observing \( k = 9 \) events out of 100, you can use the following Python code:
 
@@ -36,7 +36,7 @@ print(f"The p-value is: {p_value}")
 ```
 It returns 0.01899.
 
-The `binom.cdf` means the cumulative distribution function, the 'k-1' means up to k-1 sucesses.
+The `binom.cdf` means the cumulative distribution function, the 'k-1' means up to k-1 (or >=k) sucesses.
 
 #### Binomial probability formula to caculate the p value/ probability of observing k=9 events out of 100,
 
