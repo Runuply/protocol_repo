@@ -5,7 +5,7 @@
 * [EMBL-EBI has a very comprehensive list of courses for online training](https://www.ebi.ac.uk/training/on-demand)
 
 The notes: 
-1. [Statistical models](./Statistical_models.md)
+1. [Statistical models](./Statistics_01_Statistical_models.md)
 
 
 ### Biological experiment methods
