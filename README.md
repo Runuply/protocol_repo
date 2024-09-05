@@ -9,5 +9,5 @@ The notes:
 
 
 ### Biological experiment method
-1. [Protocol for inducing Osteoclasts from Monocytes Collected from Bone Marrow](./Biological_experiment_01_BMDM_OC_differention.md)
-2. [Protocol for collecting and culturing primary articular chondrocytes from growth plate tissue](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
+1. [Protocol for inducing Osteoclasts from Monocytes Collected from mouse Bone Marrow](./Biological_experiment_01_BMDM_OC_differention.md)
+2. [Protocol for collecting and culturing primary articular chondrocytes from mouse growth plate tissue](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
