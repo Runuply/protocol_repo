@@ -4,7 +4,7 @@ This repository contains materials and notes related to sequencing data analysis
 * To download and print the .md files
 ```bash
 #example
-pandoc /Users/ye.liu/Downloads/Biological_experiment_01_BMDM_OC_differention.md -o /Users/ye.liu/Downloads/Biological_experiment_01_BMDM_OC_differention.pdf --pdf-engine=xelatex -V mainfont="Arial"
+pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf 
 ```
 ---
 
