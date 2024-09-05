@@ -13,7 +13,7 @@
 ## Procedure
 
 ### 1. Euthanize and Dissect
-- Euthanize 6-week-old mice according to institutional animal care guidelines.
+- Euthanize 6-week-old to 8-week-old mice according to institutional animal care guidelines.
 - Dissect the hind limbs to expose the femur and tibia. Remove muscles to isolate bone tissue.
 - Place bone tissue in cold PBS (with PS) in a 3 cm dish to keep it fresh.
 
