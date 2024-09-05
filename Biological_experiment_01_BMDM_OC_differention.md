@@ -49,7 +49,7 @@
   - **Seeding Cells**: If cell density is high, add 4 mL Versene and place the plate in the fridge at 4°C for 6, 10, or 30 minutes. Detach cells by gentle pipetting, then resuspend in 3 mL of complete α-MEM with 5%-10% L929.
 
 ### 8. Cell Counting and Plating
-- Count the cells. The yield should be around 10^6 monocytes per four bones.
+- Count the cells. The yield should be around 10<sup>6</sup> monocytes per four bones.
 - Plate cells in 96-well flat-bottom plates at varying concentrations (2K, 4K, 6K, 8K, 10K cells per well) with a total volume of 200 µL per well.
   - *Note: RAW cells require 3000 cells per well*.
 
