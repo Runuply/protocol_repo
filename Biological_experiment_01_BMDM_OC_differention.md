@@ -32,7 +32,7 @@
 - Spin down again at 2000 x g for 5 minutes.
 
 ### 4. Seeding Cells
-- Prepare a 10 cm dish with 9 mL of complete α-MEM medium and add 1 mL of L929 medium (store L929 medium at -20°C after use).
+- Prepare a 10 cm dish with 9 mL of complete α-MEM medium and add 1 mL of L929 medium (store L929 medium at -20°C after use; You can also use 0.5 mL L929 medium).
 - Resuspend the cell pellet in the prepared medium and seed the cells in the dish.
 
 ### 5. Discard Attached Cells
