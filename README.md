@@ -10,6 +10,7 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 
 ### General Sequencing data analysis materials 
 * [EMBL-EBI has a very comprehensive list of courses for online training](https://www.ebi.ac.uk/training/on-demand)
+* [3rd International Workshop on the Epigenetics of Osteoarthritis](https://www.epigeneticsoa.com/program) - OA related
 
 The notes: 
 1. [Statistical models](./Statistics_01_Statistical_models.md)
