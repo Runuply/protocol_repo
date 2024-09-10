@@ -14,7 +14,6 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 
 The notes: 
 1. [Statistical models](./Statistics_01_Statistical_models.md)
-
 ---
 
 ### Biological experiment methods
@@ -22,5 +21,8 @@ The notes:
 2. [Protocol for collecting and culturing primary articular chondrocytes from mouse growth plate tissue](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
 
 ---
+
+### Basic R code 
+https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html
 
 This repository will be continuously updated with additional methods and resources.
