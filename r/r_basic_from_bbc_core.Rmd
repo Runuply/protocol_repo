@@ -1,0 +1,94 @@
+---
+title: "Untitled"
+author: "Ye Liu"
+date: "2024-09-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(readr)
+library(ggplot2)
+```
+
+# Understanding ur data {.tabset}
+
+## Reading & Viewing ur data
+```{r}
+#dir = "/varidata/researchtemp/hpctmp/r_basics_2024/"
+cyto_data <- read_csv(file = "/varidata/researchtemp/hpctmp/r_basics_2024/cytomegalovirus.csv")
+```
+
+```{r}
+# View(cyto_data)
+```
+### What kind of obj do we have?
+```{r}
+class(cyto_data)
+dim(cyto_data)
+nrow(cyto_data)
+ncol(cyto_data)
+
+#glimpse(cyto_data)
+str(cyto_data)
+```
+
+### Categorical Variables
+```{r}
+# nominal variable
+table(cyto_data$diagnosis)
+# ordinal variable
+table(cyto_data$prior.chemo)
+
+cyto_data$prior.chemo_ <-  factor(cyto_data$prior.chemo, levels = 0:8) # incriminal 
+
+class(cyto_data$prior.chemo_) #factor
+class(cyto_data$prior.chemo) # numeric
+```
+
+### Continuous Variable
+```{r}
+summary(cyto_data$age )
+```
+
+
+### Missing data & Outlier Detection
+```{r}
+table(cyto_data$prior.radiation, useNA="ifany") # a patient has no data of prior.radiation
+
+library(DataExplorer)
+plot_missing(cyto_data)
+```
+
+```{r}
+summary(cyto_data$age)
+```
+%>% Cmd + Shift + M (Mac)
+```{r}
+cyto_data %>% 
+  ggplot(aes(x = CD8.dose, y = CD34.dose, color=sex)) +
+  geom_point()
+```
+```{r}
+cyto_data %>% filter(prior.chemo_ %in% 0:8) %>% 
+  ggplot(aes(x = prior.chemo_)) +
+  geom_bar()
+
+```
+
+```{r}
+table(cyto_data$prior.radiation, useNA="ifany")
+
+cyto_data %>% 
+  filter(prior.radiation %in% c(0,1)) %>% 
+  ggplot(aes(x = TNC.dose, y = CD3.dose, color = sex))+
+  geom_point() +
+  facet_grid(.~prior.radiation)+
+  geom_smooth(method= "lm", se =F)+
+  ggtitle("Dosage by Radation Exposure")+
+  ylab("CD3 Dose") +xlab("TNC Dose")+
+  theme_bw()
+
+```
+
