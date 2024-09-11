@@ -22,7 +22,10 @@ The notes:
 
 ---
 
-### Basic R code 
-https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html
+### Basic R  
+1. [Understand your data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
 
+### Basic python
+
+---
 This repository will be continuously updated with additional methods and resources.
