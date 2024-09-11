@@ -32,5 +32,8 @@ The rading list:
 
 ### Basic python
 
+### Basic Linux command line
+1. [Github set up and workflow](./Linux_command_line_01_Git_setup.md)
+
 ---
 This repository will be continuously updated with additional methods and resources.
