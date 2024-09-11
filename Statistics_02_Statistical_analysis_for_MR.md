@@ -3,6 +3,7 @@
 MR analysis requires that genetic variants be associated with the exposure but not with potential confounders.
 
 [IEU OpenGWAS project](https://gwas.mrcieu.ac.uk/)
+Use the [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/) R package to apply the data to Mendelian randomization, and the [gwasglue](https://mrcieu.github.io/gwasglue/) for fine mapping, colocalisation, etc.
 
 - **P-value Threshold**: Effective for controlling false positives. p < 5×10−6
 - **R² Threshold**: Ensures independence of SNPs, but a stringent threshold (r² < 0.01) may need to be evaluated for appropriateness based on genetic architecture and LD patterns.
