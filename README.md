@@ -14,6 +14,9 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 
 The notes: 
 1. [Statistical models](./Statistics_01_Statistical_models.md)
+
+The rading list:
+
 ---
 
 ### Biological experiment methods
