@@ -16,4 +16,8 @@ For **H3K79me1/2/3**, there are no specific recommendations. In such cases, it i
 | H3K9me3    | RevMAb       | 31-1275-00  | S-05-02248                       |
 | H3K9me3    | Active Motif | 39162       | 21518003                         |
 
+### Kit
+[CUTANA™ ChIC/CUT&RUN Kit Version 4 (v4)](https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-chic-cut-and-run-kit)
+
+[CUTANA™ CUT&RUN Library Prep Kit](https://www.epicypher.com/products/epigenetics-reagents-and-assays/cutana-cut-and-run-library-prep-kit)
 
