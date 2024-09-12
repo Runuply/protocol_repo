@@ -18,3 +18,4 @@
 16. Centrifuge at 500 x g for 5 minutes;
 17. Discard the supernatant, resuspend the cells in an appropriate amount of α-MEM medium;
 18. Count the cells, then seed the growth plate chondrocytes into suitable culture dishes for subsequent experiments.
+- *Note:I collected 2 P7 mice knee, I can get around 6 x 10<sep>6</sep> chondrocytes*
