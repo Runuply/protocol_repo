@@ -37,10 +37,11 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 ---
 
 ## Biological Experiment Methods
-1. [Inducing Osteoclasts from Monocytes Collected from Mouse Bone Marrow](./Biological_experiment_01_BMDM_OC_differention.md)
-2. [Collecting and Culturing Primary Articular Chondrocytes from Mouse Growth Plate Tissue](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
-3. [Cut&Run Protocol](./Biological_experiment_03_cutrun.md)
-4. [Cell Stretching Experiment Protocol](./Biological_experiment_04_STEX_Stretching.md)
+1. [Protocol for Osteoclast Differentiation from Mouse Bone Marrow Monocytes](./Biological_experiment_01_BMDM_OC_differention.md)
+2. [Protocol for Isolation and Culture of Primary Articular Chondrocytes from Mouse Growth Plate](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
+3. [Protocol for Cut&Run Assay of Mapping DNA-Protein Interactions](./Biological_experiment_03_cutrun.md)
+4. [Protocol for In Vitro Cell Stretching Experiments](./Biological_experiment_04_STEX_Stretching.md)
+
 
 ---
 This repository will be continuously updated with additional methods and resources.
