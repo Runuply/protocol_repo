@@ -18,22 +18,24 @@ The notes:
 2. [Statistical_analysis_for_MR](./Statistics_02_Statistical_analysis_for_MR.md)
 
 ---
+### Bioinformatics 
+
+* [Bioinformatics Starter Pack](./Bioinformatics_01_Bioinformatics_Starter Pack.md)
+
+#### Basic R  
+1. [Understand your data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
+
+#### Basic python
+
+#### Basic Linux command line
+1. [Github set up and workflow](./Linux_command_line_01_Git_setup.md)
+---
 
 ### Biological experiment methods
 1. [Protocol for inducing Osteoclasts from Monocytes Collected from mouse Bone Marrow](./Biological_experiment_01_BMDM_OC_differention.md)
 2. [Protocol for collecting and culturing primary articular chondrocytes from mouse growth plate tissue](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
 3. [Protocol for Cut&Run](./Biological_experiment_03_cutrun.md)
 4. [Protocol for Cell Stretching experiment](./Biological_experiment_04_STEX_Stretching.md)
-
----
-
-### Basic R  
-1. [Understand your data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
-
-### Basic python
-
-### Basic Linux command line
-1. [Github set up and workflow](./Linux_command_line_01_Git_setup.md)
 
 ---
 This repository will be continuously updated with additional methods and resources.
