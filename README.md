@@ -20,7 +20,7 @@ The notes:
 ---
 ### Bioinformatics 
 
-* [Bioinformatics Starter Pack](./Bioinformatics_01_Bioinformatics_Starter Pack.md)
+* [Bioinformatics Starter Pack](./Bioinformatics_01_Bioinformatics_Starter_Pack.md)
 
 #### Basic R  
 1. [Understand your data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
