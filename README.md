@@ -12,12 +12,13 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 The rading list:
 * [EMBL-EBI has a very comprehensive list of courses for online training](https://www.ebi.ac.uk/training/on-demand)
 * [3rd International Workshop on the Epigenetics of Osteoarthritis](https://www.epigeneticsoa.com/program) - OA related
+---
 
-The notes: 
+### Statistical Analysis
+
 1. [Statistical models](./Statistics_01_Statistical_models.md)
 2. [Statistical_analysis_for_MR](./Statistics_02_Statistical_analysis_for_MR.md)
 
----
 ### Bioinformatics 
 
 * [Bioinformatics Starter Pack](./Bioinformatics_01_Bioinformatics_Starter_Pack.md)
