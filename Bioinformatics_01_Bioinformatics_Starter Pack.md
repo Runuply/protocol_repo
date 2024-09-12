@@ -3,7 +3,7 @@
 [Bioinformatics Starter Pack - Notion](https://khushbupatel.notion.site/Bioinformatics-Starter-Pack-ae982892a9fb44569f735abc52ec9dd8)
 
 I have compiled some useful links to tutorials, guides, and blogs that are a helpful resource for anyone who is a beginner in bioinformatics and wants to learn more.
-
+---
 ## R
 
 - [R and RStudio Installation](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924)
