@@ -14,7 +14,7 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 - [EMBL-EBI Online Training Courses](https://www.ebi.ac.uk/training/on-demand) - Comprehensive list of courses
 - [3rd International Workshop on the Epigenetics of Osteoarthritis](https://www.epigeneticsoa.com/program) - OA Related
 
-The important Book I bought for learning Bioinfomatics
+The important book I bought for learning Bioinformatics
 - [cell-line-to-command-line](https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line)
 ---
 
