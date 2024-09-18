@@ -31,7 +31,7 @@ The important book I bought for learning Bioinformatics
 - [Understand Your Data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
 
 ### Basic Python
-- (Coming Soon)
+- [Test the python on vs](./python/python_01_test_on_vs_code.py)
 
 ### Basic Linux Command Line
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
