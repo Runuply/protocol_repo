@@ -8,6 +8,7 @@
 - **M-CSF** (cat #: 216-MC): Macrophage Colony-Stimulating Factor from R&D Systems.
 - **RANKL** (cat #: 462-TEC): Receptor Activator of Nuclear Factor Kappa-B Ligand from R&D Systems.
   - *Alternative RANKL: Provided by Dr. Darney (1.65 µg/µL)*.
+  - *RANKL (462-TEC-010, 10ug)* https://www.rndsystems.com/products/recombinant-mouse-trance-rank-l-tnfsf11-e-coli-expressed_462-tec was ordered at 09/24/24.
 - **L929**: M-CSF substitute provided by Dr. Darney.
 
 ## Procedure
