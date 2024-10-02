@@ -16,6 +16,7 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 
 The important book I bought for learning Bioinformatics
 - [cell-line-to-command-line](https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line)
+- [practical computing for biologists](https://pdfroom.com/books/practical-computing-for-biologists/jb5qOKXBgxQ/download) it covers regular expression, Unix commands and some python stuffs that directly related to biology
 ---
 
 ## Statistical Analysis
@@ -29,13 +30,26 @@ The important book I bought for learning Bioinformatics
 
 ### Basic R
 - [Understand Your Data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
+- [The art of R programming](https://github.com/aaaastark/Data-Scientist-Books/blob/main/The%20Art%20of%20R%20Programming%20A%20Tour%20of%20Statistical%20Software%20Design.pdf), it covers the basics, learn to use packages like dplyr, ggplot2 will greatly reduce the complexity of your code and enhancer your productivity.
 
 ### Basic Python
 - [Test the python on vs](./python/python_01_test_on_vs_code.py)
+- Book maybe useful for you [python programming for absolute beginners](https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition.pdf).
 
-### Basic Linux Command Line
+### Basic Linux Command Line (unix skills will never fade)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 
+### Several resources to read before any project:
+1. [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532)
+
+2. [Designing project by Vince Buffalo Vince Buffalo](https://nicercode.github.io/blog/2013-04-05-projects/?ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532) has a book which highly recommend: [Bioinformatics data skills](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/?ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532). 
+
+​
+3. [Best Practices for Scientific Computing​](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532).The take home message for me is that it is not enough for you to just run the code, get some results and then publish them.
+
+4. I learned a lot from Tommy Tang, please follow his X https://x.com/tangming2005, he tweets tools and papers.
+   -- He mentioned in the early days, he wrote his script in python doing the same thing as bedtools (published in 2010). He mentioned Dr. Ting Wang also did the same thing, writing a Perl script to do the intersection of genomic regions and found TP53 binds to TEs. See his paper https://www.pnas.org/doi/epdf/10.1073/pnas.0703637104 in 2007
+​
 ---
 
 ## Molecular Biology protocols
