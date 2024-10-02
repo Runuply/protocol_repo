@@ -48,7 +48,7 @@ The important book I bought for learning Bioinformatics
 - 3. [Best Practices for Scientific Computing​](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532).The take home message for me is that it is not enough for you to just run the code, get some results and then publish them.
 
 - 4. I learned a lot from Tommy Tang, please follow his X https://x.com/tangming2005, he tweets tools and papers.
-   -- He mentioned in the early days, he wrote his script in python doing the same thing as bedtools (published in 2010). He mentioned Dr. Ting Wang also did the same thing, writing a Perl script to do the intersection of genomic regions and found TP53 binds to TEs. See his paper [https://www.pnas.org/doi/epdf/10.1073/pnas.0703637104](https://www.pnas.org/doi/epdf/10.1073/pnas.0703637104) in 2007.
+   -- Dealing with genomic intervals. He mentioned in the early days, he wrote his script in python doing the same thing as bedtools (published in 2010). He mentioned Dr. Ting Wang also did the same thing, writing a Perl script to do the intersection of genomic regions and found TP53 binds to TEs. See his paper [https://www.pnas.org/doi/epdf/10.1073/pnas.0703637104](https://www.pnas.org/doi/epdf/10.1073/pnas.0703637104) in 2007. The Bioconductor ecosystem and also has the GenomicRanges package which is the foundation of dealing with genomic intervals
 ​
 ---
 
