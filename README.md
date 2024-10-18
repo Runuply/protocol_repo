@@ -39,7 +39,7 @@ The important book I bought for learning Bioinformatics
 ### Basic Linux Command Line (unix skills will never fade)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 - [Van Andel Institute bioinfo workshop 2024-HPC](http://hpcworkshop.vai.org/)
-- [Van Andel Institute bioinfo workshop 2024-Intro_to_Linux_for_HPC](https://vari-bbc.github.io/Intro_to_Linux_for_HPC/index.html)
+- [Van Andel Institute bioinfo workshop 2024-Intro_to_Linux_for_HPC](https://vari-bbc.github.io/Intro_to_Linux_for_HPC/index.html) and [my note](https://github.com/Runuply/protocol_repo/wiki/Class-note-of-Intro_to_Linux_for_HPC-2024-VAI)
 
 ### Several resources to read before any project:
 - 1. [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532)
