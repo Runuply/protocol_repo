@@ -171,3 +171,118 @@ Push your changes to GitHub:
 ```bash
 git push origin main
 ```
+----
+Here is the course from VAI 
+
+## Git and Github
+
+<center>
+<img src="https://imgs.xkcd.com/comics/git.png">
+</center>
+
+## Learning objectives
+
+
+## Pre-class assignment
+
+### Reading
+
+Jenny Bryan's "Excuse me, do you have a moment to talk about version control?".
+The pdf was sent via email and may also be found at
+
+ - https://scheuerell-lab.github.io/lab-book/resources/Bryan_2018_version_control.pdf
+
+ - https://peerj.com/preprints/3159.pdf (preprint)
+
+### Set up Github account
+
+This repo is private and cannot be viewed without an invited account, but here
+are instructions:
+
+If you don't already have a Github account (or know another student who
+doesn't), [create an account](https://github.com/signup) and email an instructor
+with your username to have you added to the [class Github team](https://github.com/Bioinformatics-Training-VAI)
+and [repository](https://github.com/Bioinformatics-Training-VAI/2024-data-sci-bioinfo).
+
+### Set up git
+
+Go to <https://github.com/git-guides/install-git> and choose one of the
+installation methods.
+
+#### MacOS
+
+If you are on a mac, you can use `git` directly from the command line. It does
+not always come pre-installed so you may need to install it.
+
+To check if you have git already installed open Terminal and run
+
+```bash
+git version
+```
+
+If this returns a `git version 2.42.0` or other number, you have git. If you get
+`command not found: git`, git is not installed on your system. I would recommend
+using the
+[OSX installer](https://github.com/git-guides/install-git#install-git-from-an-installer).
+You may also use [homebrew](brew.sh) or get the
+[GitHub Desktop](https://github.com/git-guides/install-git#install-git-using-github-desktop)
+app if you prefer.
+
+#### Windows
+
+Windows does not have native support for command-line git. If you want to follow
+the class from your local machine, install [Git for
+Windows](https://github.com/git-guides/install-git#install-git-on-windows).
+You may also get the [GitHub Desktop](https://github.com/git-guides/install-git#install-git-using-github-desktop)
+app which will install git.
+
+#### HPC
+
+Alternatively, both MacOS and Windows users may run git from the HPC from either
+the command line through ssh or using the [OnDemand web
+server](https://ondemand.hpc.vai.org).
+
+#### Configuration
+
+Your local git installation does not know about your GitHub account. To add your
+username and email (the one used to make your GitHub account and that will show
+up in your commits), follow these instructions:
+
+ - [set up username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
+
+ - [set up email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
+### Authentication
+
+With your username and email set, you'll need to be able to securely push and
+pull changes to github. There are two ways to do this:
+
+ - Using tokens: This is like a password that you can use when asked for a
+   password during GitHub operations.
+   * <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens>
+
+ - Using an SSH key: this methods connects to GitHub in the same way that you
+   would connect to the HPC. It requires the creation and management of ssh
+   keys.
+    * <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh>
+
+ - <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github#authenticating-with-the-command-line>
+
+
+[Email me](mailto:james.eapen@vai.org) if you have issues with authentication.
+
+## Additional resources
+
+- <https://learngitbranching.js.org/>: interactive git branching tutorial
+
+- [Github git guides](https://github.com/git-guides/)
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/): R-user-focused guide
+
+- [Publish GitHub report with RStudio](https://resources.github.com/github-and-rstudio/)
+
+## Render slides
+
+Slides will be emailed after class but, if you'd like to render them yourself,
+install [Quarto](https://quarto.org) and download it for your system. Then, run
+`quarto render git.qmd` from this directory to generate the slides.
