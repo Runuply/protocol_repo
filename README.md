@@ -38,6 +38,7 @@ The important book I bought for learning Bioinformatics
 
 ### Basic Linux Command Line (unix skills will never fade)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
+- [Commonly used command line in HPC](https://github.com/Runuply/protocol_repo/wiki/Commonly_used_command_line_in_HPC)
 - [Van Andel Institute bioinfo workshop 2024-HPC](http://hpcworkshop.vai.org/)
 - [Van Andel Institute bioinfo workshop 2024-Intro_to_Linux_for_HPC](https://vari-bbc.github.io/Intro_to_Linux_for_HPC/index.html) and [my note](https://github.com/Runuply/protocol_repo/wiki/Class-note-of-Intro_to_Linux_for_HPC-2024-VAI)
 
