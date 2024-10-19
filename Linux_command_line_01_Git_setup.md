@@ -286,3 +286,66 @@ pull changes to github. There are two ways to do this:
 Slides will be emailed after class but, if you'd like to render them yourself,
 install [Quarto](https://quarto.org) and download it for your system. Then, run
 `quarto render git.qmd` from this directory to generate the slides.
+
+## Session 2 homework
+
+Your homework will be practicing the git commands we learned today and
+making a fork of the class repo for future homework submissions.
+
+### Part 1
+
+1. Identify one thing about git and Github you understood from today that you
+   could see yourself using and one that you did not understand that you would
+   like clarified or explained again. You may add as many questions as you'd
+   like, but think about at least one.
+
+2. Draft an email with these two elements.
+
+### Part 2
+
+1. Open RStudio using the [HPC OnDemand server](https://ondemand.hpc.vai.org)
+   (or your own laptop's RStudio if that's what you used in class).
+
+2. Modify the hello_world function to plot the "cars" dataset after sending the
+   "Hello World!" message. The hello_world function should look like this with
+   the `plot(cars)` line added to the function:
+
+```r
+#' Prints "Hello World!"
+#' @export
+hello_world <- function() {
+  message("Hello world!")
+  plot(cars)
+}
+```
+
+3. Commit this change with an informative message about what changed and push to
+   Github. Then, using your Github page for hello_git that you just pushed the
+   change to, find the diff of this last change and the link to this diff. Add
+   this link to the email you started in Part 1.
+
+You don't have to have run the function to complete the homework but if you'd
+like to see how R packages are built and run, go to the "Build" tab next to the
+"Git" tab you used to make the commit. Here click on "Install" which will
+install the hello_world function. Then in the R console on the bottom, run
+`hello_world()`.
+
+![](build_run.png)
+
+### Part 3
+
+Finally, you'll make a copy of the class repo so that you can submit homework
+for the next classes. You'll need to make a fork (or copy) of our class
+repository:
+
+1. Go to <https://github.com/Bioinformatics-Training-VAI/2024-data-sci-bioinfo>
+
+2. In the mid-upper right side of the page, you'll see a "Fork" button. Forking
+   makes a copy to your Github account, like what you did with the hello_git,
+   repo so that you can work on your homework without affecting anyone else
+   until you're ready to submit.
+
+![](./fork.png)
+
+1. Along with the link to the diff from part 2, email me the link to your newly
+   forked 2024-data-sci-bioinfo repo to complete the homework for this week.
