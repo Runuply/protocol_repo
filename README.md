@@ -47,7 +47,6 @@ The important book I bought for learning Bioinformatics
 
 - 2. [Designing project by Vince Buffalo Vince Buffalo](https://nicercode.github.io/blog/2013-04-05-projects/?ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532) has a book which highly recommend: [Bioinformatics data skills](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/?ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532). 
 
-​
 - 3. [Best Practices for Scientific Computing​](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532).The take home message for me is that it is not enough for you to just run the code, get some results and then publish them.
 
 - 4. I learned a lot from Tommy Tang, please follow his X https://x.com/tangming2005, he tweets tools and papers.
