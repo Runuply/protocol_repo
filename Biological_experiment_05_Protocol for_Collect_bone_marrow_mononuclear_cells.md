@@ -1,5 +1,3 @@
-
-
 1. **Euthanize** a 6-week-old to 8-week-old mouse.
 
 2. **Dissect** the hind limbs to expose the femur and tibia. Remove muscles to isolate bone tissue.
@@ -16,18 +14,18 @@
 
 8. **Resuspend** the bone marrow pellet in 1 mL of PBS by pipetting up and down, then transfer to the 15 mL tube.
 
-9. **Spin down** the suspension at 500 x g for 5 minutes, then use eBioscience™ 10X RBC Lysis Buffer (Multi-species) for RBC depletion.
+9. **Spin down** the suspension at 500 x g for 5 minutes, then proceed with RBC lysis using eBioscience™ 10X RBC Lysis Buffer (Multi-species) as follows:
     
-   -Dilute 10x RBC lysis buffer in reagent grade water (1:10) at RT.
-   -After c.f.g resuspend pellet in 3-10 mL of prepared 1xRBC lysis buffer.
-   -Incubate for 4-5 min ar RT
-   -c.f.g 500 x g for 5 min at RT
+    - Dilute the 10X RBC lysis buffer in reagent-grade water to 1X at room temperature (RT).
+    - After centrifugation, resuspend the pellet in 3–10 mL of prepared 1X RBC lysis buffer.
+    - Incubate for 4–5 minutes at RT.
+    - Centrifuge at 500 x g for 5 minutes at RT.
 
-11. **Resuspend** the pellet in 1 mL of PBS (without Ca or Mg) with 0.04% BSA and vortex gently.
+10. **Resuspend** the pellet in 1 mL of PBS (without Ca or Mg) with 0.04% BSA and vortex gently.
 
-12. **Perform** a cell count and viability check using Trypan blue and a cell counter (BioRad TC10 Automated Cell Counter in the lab or Luna in the core).
+11. **Perform** a cell count and viability check using Trypan blue and a cell counter (BioRad TC10 Automated Cell Counter in the lab or Luna in the core).
 
-13. **Analyze** samples with CytoFLEX.
+12. **Analyze** samples with CytoFLEX.
 
 
 
