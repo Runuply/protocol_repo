@@ -24,9 +24,8 @@
 6. Change the 45 % formic acid/ 20 % sodium citrate dihydrate fixation solution for fresh solution every 3 days. The decalcifi- cation should be complete within in approximately 5–7 days.
 
 **Refernce:**
-
-https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1619-1_12.pdf
-Decalcification, page 155
+- https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1619-1_12.pdf
+- Decalcification, page 155
 
 ---
 
