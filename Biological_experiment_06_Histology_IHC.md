@@ -81,4 +81,4 @@
 ---
 
 ### Tags
-`#Protocol` `#Reagent` `#Histology` `#IHC`
+`#Protocol` `#Reagent` `#Histology` `#IHC` `#Decalcification`
