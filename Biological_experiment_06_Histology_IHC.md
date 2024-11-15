@@ -23,7 +23,7 @@
 5. Assess samples to determine if they are decalcified after 2–3 days (see the decalcification test below using a solution of satu- rated ammonium oxalate).
 6. Change the 45 % formic acid/ 20 % sodium citrate dihydrate fixation solution for fresh solution every 3 days. The decalcifi- cation should be complete within in approximately 5–7 days.
 
-**Refernce**
+**Refernce: **
 https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1619-1_12.pdf
 Decalcification, page 155
 
