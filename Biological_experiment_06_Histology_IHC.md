@@ -14,6 +14,18 @@
 6. Treat tissue with **xylene** for 2 hours.  
 7. Embed tissue in **paraffin** and section at **5 μm** thickness.  
 
+
+### Prepare the Sodium Citrate/Formic Acid Decalcification reagent (45% formic acid + 20% sodium citrate dihydrate)
+1. 20 % sodium citrate dihydrate: dissolve 100 g of sodium citrate dihydrate in 350 mL of dH2O; add dH2O to a final volume of 500 mL.
+2. 45 % formic acid: To prepare 500 mL dilute 225 mL of >95 % formic acid in 275 mL of dH2O.
+3. Mix 250 mL of 45 % formic acid with 250 mL of 20 % sodium citrate dihydrate solution. Add decalcification solution to sample. The recommended volume of decalcification solution is at least 15–20× the volume of tissue.
+4. Incubate samples at room temperature on a rocker for 2–3 days.
+5. Assess samples to determine if they are decalcified after 2–3 days (see the decalcification test below using a solution of satu- rated ammonium oxalate).
+6. Change the 45 % formic acid/ 20 % sodium citrate dihydrate fixation solution for fresh solution every 3 days. The decalcifi- cation should be complete within in approximately 5–7 days.
+
+**Refernce**
+https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1619-1_12.pdf
+Decalcification, page 155
 ---
 
 ### IHC Staining Protocol: H3K9me3 on Osteochondral Tissue
