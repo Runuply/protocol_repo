@@ -22,7 +22,8 @@ The important book I bought for learning Bioinformatics
 ## Statistical Analysis
 1. [Statistical Models](./Statistics_01_Statistical_models.md)
 2. [Statistical Analysis for Mendelian Randomization (MR)](./Statistics_02_Statistical_analysis_for_MR.md)
-
+Focus on things that do not change.
+3. The best statistics books- Statistics will not change. The same statistics concepts will hold for many more years to come. For example, use the binomial distribution to model count data. btw, this is one of the best statistics books for biology: Modern Statistics for modern biology.
 ---
 
 ## Bioinformatics
@@ -37,6 +38,7 @@ The important book I bought for learning Bioinformatics
 - Book maybe useful for you [python programming for absolute beginners](https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition.pdf).
 
 ### Basic Linux Command Line (unix skills will never fade)
+- Linux system has been around for almost 70 years. It is the same unix commands I use every day. [Read this book for free(https://linuxcommand.org/index.php)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 - [Commonly used command line in HPC](https://github.com/Runuply/protocol_repo/wiki/Commonly_used_command_line_in_HPC)
 - [Van Andel Institute bioinfo workshop 2024-HPC](http://hpcworkshop.vai.org/)
