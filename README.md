@@ -38,7 +38,7 @@ Focus on things that do not change.
 - Book maybe useful for you [python programming for absolute beginners](https://github.com/CWade3051/Py/blob/master/Absolute%20Book/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition/Python%20Programming%20for%20the%20Absolute%20Beginner%2C%203rd%20Edition.pdf).
 
 ### Basic Linux Command Line (unix skills will never fade)
-- Linux system has been around for almost 70 years. It is the same unix commands I use every day. [Read this book for free(https://linuxcommand.org/index.php)
+- Linux system has been around for almost 70 years. It is the same unix commands I use every day. [Read this book for free](https://linuxcommand.org/index.php)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 - [Commonly used command line in HPC](https://github.com/Runuply/protocol_repo/wiki/Commonly_used_command_line_in_HPC)
 - [Van Andel Institute bioinfo workshop 2024-HPC](http://hpcworkshop.vai.org/)
