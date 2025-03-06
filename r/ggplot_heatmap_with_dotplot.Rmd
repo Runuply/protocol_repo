@@ -1,0 +1,58 @@
+---
+title: "Untitled"
+author: "YL"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# 示例数据
+set.seed(123)
+heatmapdata <- data.frame(
+  file_label = rep(c("B36", "B49", "B66", "hFB", "NHA"), each = 5),
+  HLA.group = rep(c("A", "B", "C", "D", "E"), times = 5),
+  enrichment_score = runif(25, 0, 10),  # 作为热图填充数据
+  count = sample(1:100, 25, replace = TRUE)  # 作为气泡大小
+)
+
+# 确保数据的 factor 级别正确
+heatmapdata$file_label <- factor(heatmapdata$file_label, levels = unique(heatmapdata$file_label))
+heatmapdata$HLA.group <- factor(heatmapdata$HLA.group, levels = unique(heatmapdata$HLA.group))
+
+# 颜色映射（Enrichment Score 作为热图颜色）
+color_palette <- colorRampPalette(c("white", "darkblue"))(100)
+
+# 画图
+p <- ggplot(heatmapdata, aes(x = file_label, y = HLA.group)) +
+  
+  # 1. 热图背景（用 enrichment_score 控制颜色）
+  geom_tile(aes(fill = enrichment_score), color = "white") +
+  scale_fill_gradientn(colors = color_palette, name = "Enrichment Score") +
+  
+  # 2. 气泡（白色填充 + 黑色边框）
+  geom_point(aes(size = count), color = "black", fill = "white", shape = 21, alpha = 0.9) +
+  scale_size(range = c(2, 10), name = "Count") +  # 调整气泡大小
+  
+  # 3. 主题设置
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        panel.grid = element_blank()) +
+  
+  coord_fixed()  # 使方块和点比例一致
+
+# 显示
+print(p)
+
+
+```
+
