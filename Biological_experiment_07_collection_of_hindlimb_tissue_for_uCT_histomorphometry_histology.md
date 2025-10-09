@@ -27,8 +27,8 @@
     * Ensure the femur head remains intact.
     * Remove all muscles from the femur (muscle removal from tibia is not required).
 ## 3. Place:
-    Femur -> cassette 1 -> immediately submerge in NBF, protected from light
-    Tibia -> cassette 2 -> leave in NBF until left hindlimb collection
+    Femur → cassette 1 → immediately submerge in NBF, protected from light
+    Tibia → cassette 2 → leave in NBF until left hindlimb collection
 
 ## 4. Left Hindlimb (for histology or combined fixation)
 1. Harvest the left hindlimb, separating it entirely from the hip while keeping the femur head intact.
