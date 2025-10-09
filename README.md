@@ -63,6 +63,7 @@ Focus on things that do not change.
 4. [Protocol for In Vitro Cell Stretching Experiments](./Biological_experiment_04_STEX_Stretching.md)
 5. [Protocol for Collect bone marrow mononuclear cells](./Biological_experiment_05_Protocol_for_Collect_bone_marrow_mononuclear_cells.md)
 6. [Protocol for Histology: Decalcification and Immunohistochemistry (IHC)](./Biological_experiment_06_Histology_IHC.md)
+7. [Protocol for Hindlimb_tissue_collection for_uCT_histomorphometry_or histology](./Biological_experiment_07_collection_of_hindlimb_tissue_for_uCT_histomorphometry_histology.md)
 
 
 ---
