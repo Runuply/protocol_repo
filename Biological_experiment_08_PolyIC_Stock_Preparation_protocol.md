@@ -53,8 +53,8 @@ Adjust transfection reagent / medium separately.
 * Follow manufacturer instructions for transfection reagent ratios and incubation times
 
 ### G. Quick Checklist
-☐ Dissolve 10 mg in 1.0 mL → Stock1 (10 mg/mL)
-☐ Aliquot Stock1, store −20 °C 
-☐ Dilute to 0.5 mg/mL → Stock2 
-☐ Use 4 / 2 / 1 µL Stock2 for 2 / 1 / 0.5 µg per well
-☐ Use master mixes, avoid freeze–thaw, label clearly
+- [ ]  Dissolve 10 mg in 1.0 mL → Stock1 (10 mg/mL)
+- [ ]  Aliquot Stock1, store −20 °C 
+- [ ]  Dilute to 0.5 mg/mL → Stock2 
+- [ ]  Use 4 / 2 / 1 µL Stock2 for 2 / 1 / 0.5 µg per well
+- [ ]  Use master mixes, avoid freeze–thaw, label clearly
