@@ -41,8 +41,8 @@ Focus on things that do not change.
 - Linux system has been around for almost 70 years. It is the same unix commands I use every day. [Read this book for free](https://linuxcommand.org/index.php)
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 - [Commonly used command line in HPC](https://github.com/Runuply/protocol_repo/wiki/Commonly_used_command_line_in_HPC)
-- [Van Andel Institute bioinfo workshop 2024-HPC](http://hpcworkshop.vai.org/)
 - [Van Andel Institute bioinfo workshop 2024-Intro_to_Linux_for_HPC](https://vari-bbc.github.io/Intro_to_Linux_for_HPC/index.html) and [my note](https://github.com/Runuply/protocol_repo/wiki/Class-note-of-Intro_to_Linux_for_HPC-2024-VAI)
+- [10x Genomics Visium-HD Spatial Gene Expression Data Analysis Workshop at University of Michigan 10/23/2025](https://github.com/Runuply/protocol_repo/wiki/10x-Genomics-Visium-HD-Spatial-Gene-Expression-Data-Analysis-Workshop-at-UM)
 
 ### Several resources to read before any project:
 - 1. [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532)
