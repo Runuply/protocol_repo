@@ -10,24 +10,25 @@ pandoc  --pdf-engine=xelatex -V mainfont="Arial" file.md -o file.pdf
 
 # Sequencing Data Analysis Materials
 
-## Online Training and Workshops
+## Training and Workshops
 - [EMBL-EBI Online Training Courses](https://www.ebi.ac.uk/training/on-demand) - Comprehensive list of courses
 - [3rd International Workshop on the Epigenetics of Osteoarthritis](https://www.epigeneticsoa.com/program) - OA Related
-
+- [10x Genomics Visium-HD Spatial Gene Expression Data Analysis Workshop at University of Michigan 10/23/2025](https://github.com/Runuply/protocol_repo/wiki/10x-Genomics-Visium-HD-Spatial-Gene-Expression-Data-Analysis-Workshop-at-UM)
+- 
 The important book I bought for learning Bioinformatics
 - [cell-line-to-command-line](https://divingintogeneticsandgenomics.ck.page/products/cell-line-to-command-line)
 - [practical computing for biologists](https://pdfroom.com/books/practical-computing-for-biologists/jb5qOKXBgxQ/download) it covers regular expression, Unix commands and some python stuffs that directly related to biology
 ---
 
 ## Statistical Analysis
-1. [Statistical Models](./Statistics_01_Statistical_models.md)
-2. [Statistical Analysis for Mendelian Randomization (MR)](./Statistics_02_Statistical_analysis_for_MR.md)
+1. [Statistical Models](./Statistics/Statistics_01_Statistical_models.md)
+2. [Statistical Analysis for Mendelian Randomization (MR)](./Statistics/Statistics_02_Statistical_analysis_for_MR.md)
 Focus on things that do not change.
 3. The best statistics books- Statistics will not change. The same statistics concepts will hold for many more years to come. For example, use the binomial distribution to model count data. btw, this is one of the best statistics books for biology: Modern Statistics for modern biology.
 ---
 
 ## Bioinformatics
-- [Bioinformatics Starter Pack](./Bioinformatics_01_Bioinformatics_Starter_Pack.md)
+- [Bioinformatics Starter Pack](./Bioinformatics/Bioinformatics_01_Bioinformatics_Starter_Pack.md)
 
 ### Basic R
 - [Understand Your Data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
@@ -42,7 +43,7 @@ Focus on things that do not change.
 - [GitHub Setup and Workflow](./Linux_command_line_01_Git_setup.md)
 - [Commonly used command line in HPC](https://github.com/Runuply/protocol_repo/wiki/Commonly_used_command_line_in_HPC)
 - [Van Andel Institute bioinfo workshop 2024-Intro_to_Linux_for_HPC](https://vari-bbc.github.io/Intro_to_Linux_for_HPC/index.html) and [my note](https://github.com/Runuply/protocol_repo/wiki/Class-note-of-Intro_to_Linux_for_HPC-2024-VAI)
-- [10x Genomics Visium-HD Spatial Gene Expression Data Analysis Workshop at University of Michigan 10/23/2025](https://github.com/Runuply/protocol_repo/wiki/10x-Genomics-Visium-HD-Spatial-Gene-Expression-Data-Analysis-Workshop-at-UM)
+
 
 ### Several resources to read before any project:
 - 1. [A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424&ck_subscriber_id=1874464006&utm_source=convertkit&utm_medium=email&utm_campaign=My%202%20cents%20on%20coding%20when%20I%20was%20a%20bioinformatics%20beginner%20-%2015155532)
@@ -57,13 +58,13 @@ Focus on things that do not change.
 ---
 
 ## Molecular Biology protocols
-1. [Protocol for Osteoclast Differentiation from Mouse Bone Marrow Monocytes](./Biological_experiment_01_BMDM_OC_differention.md)
+1. [Protocol for Osteoclast Differentiation from Mouse Bone Marrow Monocytes](./Biological_experiment/Biological_experiment_01_BMDM_OC_differention.md)
 2. [Protocol for Isolation and Culture of Primary Articular Chondrocytes from Mouse Growth Plate](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
-3. [Protocol for Cut&Run Assay of Mapping DNA-Protein Interactions](./Biological_experiment_03_cutrun.md)
-4. [Protocol for In Vitro Cell Stretching Experiments](./Biological_experiment_04_STEX_Stretching.md)
-5. [Protocol for Collect bone marrow mononuclear cells](./Biological_experiment_05_Protocol_for_Collect_bone_marrow_mononuclear_cells.md)
-6. [Protocol for Histology: Decalcification and Immunohistochemistry (IHC)](./Biological_experiment_06_Histology_IHC.md)
-7. [Protocol for Hindlimb_tissue_collection for_uCT_histomorphometry_or histology](./Biological_experiment_07_collection_of_hindlimb_tissue_for_uCT_histomorphometry_histology.md)
+3. [Protocol for Cut&Run Assay of Mapping DNA-Protein Interactions](./Biological_experiment/Biological_experiment_03_cutrun.md)
+4. [Protocol for In Vitro Cell Stretching Experiments](./Biological_experiment/Biological_experiment_04_STEX_Stretching.md)
+5. [Protocol for Collect bone marrow mononuclear cells](./Biological_experiment/Biological_experiment_05_Protocol_for_Collect_bone_marrow_mononuclear_cells.md)
+6. [Protocol for Histology: Decalcification and Immunohistochemistry (IHC)](./Biological_experiment/Biological_experiment_06_Histology_IHC.md)
+7. [Protocol for Hindlimb_tissue_collection for_uCT_histomorphometry_or histology](./Biological_experiment/Biological_experiment_07_collection_of_hindlimb_tissue_for_uCT_histomorphometry_histology.md)
 
 
 ---
