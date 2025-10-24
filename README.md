@@ -29,6 +29,7 @@ Focus on things that do not change.
 
 ## Bioinformatics
 - [Bioinformatics Starter Pack](./Bioinformatics/Bioinformatics_01_Bioinformatics_Starter_Pack.md)
+- [Principles of eQTL Analysis (external link)](https://xsliulab.github.io/Workshop/2021/week32/eqtl计算方法.html)
 
 ### Basic R
 - [Understand Your Data in R](https://runuply.github.io/protocol_repo/r/r_basic_from_bbc_core.html)
