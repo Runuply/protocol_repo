@@ -37,7 +37,7 @@
 - Resuspend the cell pellet in the prepared medium and seed the cells in the dish.
 
 ### 5. Discard Attached Cells
-- **Day 2**: The next morning, collect the supernatant and discard attached cells by centrifuging at 2000 x g for 5 minutes.
+- **Day 2**: The next morning, collect the supernatant by centrifuging at 2000 x g for 5 minutes. Discard attached cells, which should be MSC. 
 - Prepare a fresh 10 cm dish with 9 mL of complete α-MEM medium and 1 mL of L929 medium.
 
 ### 6. Observation and M-CSF Addition
