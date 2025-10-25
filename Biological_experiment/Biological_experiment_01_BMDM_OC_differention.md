@@ -113,7 +113,7 @@ Cells are passaged **once per week** following these steps:
    - This step may require several filters due to cellular debris.  
 9. Aliquot the filtered medium into **50 ml tubes**.  
    - The **Week 2 L929CM** is typically more potent.
-   - 
+  
 #### 4. Storage and Use
 - **Stability:** L929CM is stable for approximately **1 year at −20°C**.  
 - **Quality Test:** Test the L929CM using a **bioassay for bone marrow-derived macrophage (BMDM) growth**.  
