@@ -74,6 +74,56 @@
 4. Allow the cells to grow for 4 days.
 5. Collect the conditioned medium, which will contain M-CSF.
 6. Store the collected L929 medium in 15 ml tubes and freeze at -80°C for future use.
-
+  
   - *Note: Give it a week, and make sure you have L929 before the experiment.*
+
+### Below is a protocol of L929 Cell Maintenance and Conditioned Medium Preparation (Di Lu sent at 7/22/25)
+
+#### 1. Cell Maintenance
+L929 cells are maintained in **T-75 cm² flasks** with filter caps using **DMEM** supplemented with:
+- 1% Penicillin-Streptomycin / L-glutamine  
+- 10% heat-inactivated Fetal Bovine Serum (56°C for 30 minutes)
+
+Cells are cultured under **5% CO₂ at 37°C**.  
+*A 10 cm dish can be used as an alternative.*
+
+#### 2. Cell Passage
+Cells are passaged **once per week** following these steps:
+
+1. Remove the culture medium from the T-75 flask.  
+2. Add **10 ml of warm DPBS** and wash the cell surface by gently rocking the flask back and forth about ten times.  
+3. Remove the wash solution and add **1.0 ml of Trypsin-EDTA**.  
+4. Incubate for **no more than 5 minutes at 37°C**.  
+5. Add **10 ml of complete culture medium**, and use a **10 ml pipette** to rinse the cells from the flask surface, pipetting up and down to disperse clumps.  
+6. Transfer **1 drop of the suspension** into **20 ml of culture medium** in each new T-75 flask.  
+7. Incubate for **7 days**, then repeat the procedure to maintain the culture.
+
+#### 3. Preparation of L929 Conditioned Medium (L929CM)
+
+1. Prepare **eight T-150 (800 ml) triple flasks** with filter caps.  
+2. Add **150 ml of culture medium** to each flask.  
+3. Count the cells in the trypsinized suspension.  
+   - Each **150 cm² surface** requires **2.5 × 10⁵ cells**.  
+4. Incubate for **7 days at 37°C, 5% CO₂**.  
+   - Several times during the week, tip each flask upright and lay it flat again to evenly distribute the cells.  
+5. At the end of the **first week**, collect the medium and filter it through a **0.2 µm filter**.  
+6. Add **150 ml of fresh, pre-warmed culture medium** to each flask and incubate for another 7 days, tipping as before.  
+7. The filtered **Week 1 L929CM** should be aliquoted into **50 ml Falcon tubes** and stored at **−20°C**.  
+8. At the end of the **second week**, collect the medium again, discard the flasks and cells, and filter the **Week 2 L929CM** through a 0.2 µm filter.  
+   - This step may require several filters due to cellular debris.  
+9. Aliquot the filtered medium into **50 ml tubes**.  
+   - The **Week 2 L929CM** is typically more potent.
+
+---
+
+## 4. Storage and Use
+- **Stability:** L929CM is stable for approximately **1 year at −20°C**.  
+- **Quality Test:** Test the L929CM using a **bioassay for bone marrow-derived macrophage (BMDM) growth**.  
+- **Before use:** Mix **equal volumes of Week 1 and Week 2 L929CM**.  
+- **Aliquoting:** If necessary, aliquot into **10 cm tubes**.  
+- **In osteoclast cultures:** Use a **1:10 dilution** of the mixed L929CM to replace M-CSF.
+
+**Note:** Week 2 conditioned medium often shows higher potency due to accumulated cytokines and growth factors.
+
+
 
