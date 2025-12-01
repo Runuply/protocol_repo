@@ -69,6 +69,6 @@ Focus on things that do not change.
 6. [Protocol for Histology: Decalcification and Immunohistochemistry (IHC)](./Biological_experiment/Biological_experiment_06_Histology_IHC.md)
 7. [Protocol for Hindlimb_tissue_collection for_uCT_histomorphometry_or histology](./Biological_experiment/Biological_experiment_07_collection_of_hindlimb_tissue_for_uCT_histomorphometry_histology.md)
 8. [Protocol for PolyIC stock preparation](./Biological_experiment/Biological_experiment_08_PolyIC_Stock_Preparation_protocol.md)
-9. [Protocol for Differentiation of E10.5 Mouse NCCs Using B-27 Plus System](./Biological_experiment/)
+9. [Protocol for Differentiation of E10.5 Mouse NCCs Using B-27 Plus System](./Biological_experiment/Biological_expeiment_09_Differentiation_of_NCC_using_B-27_Plus_system.md)
 ---
 This repository will be continuously updated with additional methods and resources.
