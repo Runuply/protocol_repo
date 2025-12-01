@@ -84,3 +84,5 @@ Mix the following in a sterile tube:
 - **Storage:** aliquot B-27 Plus Supplement at −20°C to avoid freeze–thaw cycles.  
 - **Coating matters:** poly-D-lysine + laminin gives the strongest neurite outgrowth.
 
+- ref：https://bio-protocol.org/en/bpdetail?id=4371&type=0
+
