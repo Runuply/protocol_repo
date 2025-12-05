@@ -125,10 +125,8 @@ Cells are passaged **once per week** following these steps:
 Week 2 conditioned medium often shows higher potency due to accumulated cytokines and growth factors.
 
 **Note:**
-关于混合使用 M-CSF 和 L929
-你在 Step 6 用 Recombinant M-CSF，在 Step 9 用 L929。
-建议： 尽量全程统一。
-如果为了省钱用 L929，那就 Step 4, 6, 9 全都用 L929。
-如果为了精确控制用 Recombinant M-CSF，那就全都用 Recombinant (30 ng/mL)。
-原因： Recombinant 是纯蛋白，L929 是混合汤（含其他因子）。中途换成 L929 可能会给细胞一个额外的信号冲击，不过这通常不会导致实验完全失败，只是不够严谨。
+Try to maintain consistency in the source throughout the entire protocol.
+If you want to save cost by using L929, then use L929 in Steps 4, 6, and 9.
+If you prefer precise control, then use recombinant M-CSF (30 ng/mL) in all steps.
+Recombinant M-CSF is a purified protein, whereas L929-conditioned medium is a mixture that contains additional cytokines and undefined factors. Switching to L929 midway may introduce an extra signaling stimulus to the cells. This usually won’t cause the experiment to fail, but it does make the workflow less rigorous.
 
