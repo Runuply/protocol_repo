@@ -42,7 +42,7 @@
 
 ### 6. Observation and M-CSF Addition
 - **Day 3**: In the afternoon, floating pieces and round cells attaching to the bottom should be observed.
-- Add M-CSF (stored in a labeled white paper box in the -80°C freezer). The M-CSF concentration is 30 ng/µL; the final concentration should be 50 ng/mL in a 10 mL medium. Add 1.7 µL of M-CSF to each plate. You can also add L929 to replace the M-CSF.
+- Add M-CSF (stored in a labeled white paper box in the -80°C freezer). The M-CSF concentration is 30 ng/µL; the final concentration should be 50 ng/mL in a 10 mL medium. Add 1.7 µL of M-CSF to each plate. You can also add L929 to replace the M-CSF. (need double check the calculation)
 
 ### 7. Washing, Medium Replacement, and Seeding
 - **Day 4**: Wash cells three times with PBS, directing the pipette tip toward the plate wall to avoid disturbing cells.
