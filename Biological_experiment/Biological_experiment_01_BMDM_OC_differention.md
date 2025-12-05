@@ -21,23 +21,23 @@
 ### 2. Bone Marrow Extraction
 - Prepare extraction tubes by placing a 0.5 mL tube inside a 1.5 mL tube for each mouse.
 - Drill a hole in the bottom of the 0.5 mL tube. Ensure the hole allows bone marrow to pass through but retains the bone tissue.
-- Cut off the femur and tibial heads, insert bones into the 0.5 mL tubes, and spin down at no more than 5000 x g.
+- Cut off the femur and tibial heads, insert bones into the 0.5 mL tubes, and spin down at no more than 500 x g.
 - Collect the bone marrow at the bottom of the 1.5 mL tube and discard the 0.5 mL tube.
 
 ### 3. Washing Bone Marrow Cells
 - Prepare complete medium by mixing 100 mL of α-MEM with 10% FBS.
 - Prepare a 15 mL tube with 8 mL of PBS (with PS) for each sample.
 - Resuspend the bone marrow pellet in 1 mL of PBS by pipetting up and down, then transfer to the 15 mL tube.
-- Spin down the suspension at 2000 x g for 5 minutes.
+- Spin down the suspension at 500 x g for 5 minutes.
 - Resuspend the pellet in 5 mL of incomplete α-MEM and vortex gently.
-- Spin down again at 2000 x g for 5 minutes.
+- Spin down again at 500 x g for 5 minutes.
 
 ### 4. Seeding Cells
 - Prepare a 10 cm dish with 9 mL of complete α-MEM medium and add 1 mL of L929 medium (store L929 medium at -20°C after use; You can also use 0.5 mL L929 medium).
 - Resuspend the cell pellet in the prepared medium and seed the cells in the dish.
 
 ### 5. Discard Attached Cells
-- **Day 2**: The next morning, collect the supernatant by centrifuging at 2000 x g for 5 minutes. Discard attached cells, which should be MSC. 
+- **Day 2**: The next morning, collect the supernatant by centrifuging at 500 x g for 5 minutes. Discard attached cells, which should be MSC. 
 - Prepare a fresh 10 cm dish with 9 mL of complete α-MEM medium and 1 mL of L929 medium.
 
 ### 6. Observation and M-CSF Addition
