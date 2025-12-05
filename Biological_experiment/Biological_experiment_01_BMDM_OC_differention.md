@@ -42,7 +42,7 @@
 
 ### 6. Observation and M-CSF Addition
 - **Day 3**: In the afternoon, floating pieces and round cells attaching to the bottom should be observed.
-- Add M-CSF (stored in a labeled white paper box in the -80°C freezer). The M-CSF concentration is 30 ng/µL; the final concentration should be 50 ng/mL in a 10 mL medium. Add 1.7 µL of M-CSF to each plate. You can also add L929 to replace the M-CSF. (need double check the calculation)
+- Add M-CSF (stored in a labeled white paper box in the -80°C freezer). The M-CSF concentration is 30 ng/µL; the final concentration should be 50 ng/mL in a 10 mL medium. Add 1.7 µL of M-CSF to each plate. You can also add L929 to replace the M-CSF. (Need double double-check the calculation)
 
 ### 7. Washing, Medium Replacement, and Seeding
 - **Day 4**: Wash cells three times with PBS, directing the pipette tip toward the plate wall to avoid disturbing cells.
@@ -50,7 +50,7 @@
   - **Seeding Cells**: If cell density is high, add 4 mL Versene and place the plate in the fridge at 4°C for 6, 10, or 30 minutes. Detach cells by gentle pipetting, then resuspend in 3 mL of complete α-MEM with 5%-10% L929.
 
 ### 8. Cell Counting and Plating
-- Count the cells. The yield should be around 10<sup>6</sup> monocytes per four bones.(In my case, I collected hind limbs of 4 mice, the total cell number is 2.28 x 10<sup>6</sup>; So if you only collect hind limbs the yield should be 0.6 x 10<sup>6</sup>.)
+- Count the cells. The yield should be around 10<sup>6</sup> monocytes per four bones. (In my case, I collected hind limbs of 4 mice, the total cell number is 2.28 x 10<sup>6</sup>; So if you only collect hind limbs, the yield should be 0.6 x 10<sup>6</sup>.)
 - Plate cells in 96-well flat-bottom plates at varying concentrations (2K, 4K, 6K, 8K, 10K cells per well) with a total volume of 200 µL per well.
   - *Note: RAW cells require 3000 cells per well. *
   - *Note: The BMDM can be up to 20K cells/well. However, in my assay, I seeded 20K cells per well, but by the next morning, the confluency was still insufficient for transfection, which requires approximately 70% confluency. Please consider seeding 30K or 40K cells per well (For Inducing Osteoclasts)*
@@ -58,7 +58,7 @@
 - Plate cells in 6-well flat-bottom plates 6x10<sup>5</sup> cells/well (For qPCR).
 
 ### 9. Proliferation and Medium Replacement
-- Allow cells to proliferate for one day to ensure attachment. Change the medium every 2-3 days, adding 5% L929 and 50-100 ng/mL His-RANKL.
+- Allow cells to proliferate for one day to ensure attachment. Change the medium every 2-3 days, adding 10% L929 and 50-100 ng/mL His-RANKL.
   - *Note: Monocytes will appear round initially, then attach and flatten. Monitor cell morphology to determine when to change the medium*.
 
 ### 10. Osteoclast (OC) Formation Check
@@ -121,7 +121,14 @@ Cells are passaged **once per week** following these steps:
 - **Aliquoting:** If necessary, aliquot into **10 cm tubes**.  
 - **In osteoclast cultures:** Use a **1:10 dilution** of the mixed L929CM to replace M-CSF.
 
-**Note:** Week 2 conditioned medium often shows higher potency due to accumulated cytokines and growth factors.
+**Note:** 
+Week 2 conditioned medium often shows higher potency due to accumulated cytokines and growth factors.
 
-
+**Note:**
+关于混合使用 M-CSF 和 L929
+你在 Step 6 用 Recombinant M-CSF，在 Step 9 用 L929。
+建议： 尽量全程统一。
+如果为了省钱用 L929，那就 Step 4, 6, 9 全都用 L929。
+如果为了精确控制用 Recombinant M-CSF，那就全都用 Recombinant (30 ng/mL)。
+原因： Recombinant 是纯蛋白，L929 是混合汤（含其他因子）。中途换成 L929 可能会给细胞一个额外的信号冲击，不过这通常不会导致实验完全失败，只是不够严谨。
 
