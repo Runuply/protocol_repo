@@ -21,7 +21,7 @@
 ### 2. Bone Marrow Extraction
 - Prepare extraction tubes by placing a 0.5 mL tube inside a 1.5 mL tube for each mouse.
 - Drill a hole in the bottom of the 0.5 mL tube. Ensure the hole allows bone marrow to pass through but retains the bone tissue.
-- Cut off the femur and tibial heads, insert bones into the 0.5 mL tubes, and spin down at no more than 500 x g.
+- Cut off the femur and tibial heads, insert bones into the 0.5 mL tubes, and spin down at 3000 - 5000 x g for several sec.
 - Collect the bone marrow at the bottom of the 1.5 mL tube and discard the 0.5 mL tube.
 
 ### 3. Washing Bone Marrow Cells
