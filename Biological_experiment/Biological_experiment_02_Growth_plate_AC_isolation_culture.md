@@ -20,7 +20,7 @@ This protocol describes isolation and primary culture of mouse growth plate chon
 
 ## Reagent Notes
 
-- Protease stock: 3 mg/ml, stored at -20°C.
+- Pronase stock: 3 mg/ml, stored at -20°C.
 - Collagenase type II stock: 10 mg/ml, stored at -20°C.
 - Prepare working enzyme solutions fresh or thaw immediately before use.
 - Use sterile technique for all tissue handling and cell culture steps.
