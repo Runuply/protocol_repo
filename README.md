@@ -62,7 +62,7 @@ Focus on things that do not change.
 ## Molecular Biology protocols
 0. [Mouse Models of Osteoarthritis](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1619-1_12.pdf)
 1. [Protocol for Osteoclast Differentiation from Mouse Bone Marrow Monocytes](./Biological_experiment/Biological_experiment_01_BMDM_OC_differention.md)
-2. [Protocol for Isolation and Culture of Primary Articular Chondrocytes from Mouse Growth Plate](./Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
+2. [Protocol for Isolation and Culture of Primary Articular Chondrocytes from Mouse Growth Plate](./Biological_experiment/Biological_experiment_02_Growth_plate_AC_isolation_culture.md)
 3. [Protocol for Cut&Run Assay of Mapping DNA-Protein Interactions](./Biological_experiment/Biological_experiment_03_cutrun.md)
 4. [Protocol for In Vitro Cell Stretching Experiments](./Biological_experiment/Biological_experiment_04_STEX_Stretching.md)
 5. [Protocol for Collect bone marrow mononuclear cells](./Biological_experiment/Biological_experiment_05_Protocol_for_Collect_bone_marrow_mononuclear_cells.md)
